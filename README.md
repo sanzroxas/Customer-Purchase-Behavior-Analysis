@@ -98,4 +98,4 @@ The treemap and bar plot visualizations show the distribution of customers acros
 
 ## Author
 
-Cassandra Roxas - [GitHub](https://github.com/sanzroxas) - [LinkedIn](https://www.linkedin.com/in/cassandra-roxas-8590332b3/)
+Cassandra Roxas - [GitHub](https://github.com/sanzroxas) - [LinkedIn](https://www.linkedin.com/in/cassandra-roxas)
